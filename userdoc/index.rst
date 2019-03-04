@@ -19,6 +19,7 @@ AUB HPC user guide
    gpu_jobs.rst
    hybrid_jobs.rst
    interactive_job.rst
+   r_computing.rst
    using_python.rst
    using_enzo.rst
    machine_learning.rst
